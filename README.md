@@ -1,5 +1,5 @@
-# project3
-Classification of Credit Card Clients
+# Classification of Credit Card Clients
+
 Using random forest to classify credit card defaults potential save the bank money
 
 ## Target:
