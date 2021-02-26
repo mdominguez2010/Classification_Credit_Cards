@@ -19,7 +19,7 @@ X18-X23: Amount of previous payment (NT dollar). X18 = amount paid in September,
 UCI Machine Learning Repo, 'default of credit card clients'
 
 ## Tools Used:
-Pandas, numpy, sklearn, imblearn, ipywidgets, matplotlib, seaborn, streamlit
+Pandas, numpy, sklearn, imblearn, ipywidgets, matplotlib, seaborn
 
 ## Possible Impacts:
 Pevent further losses to a financial institution, automate processes
